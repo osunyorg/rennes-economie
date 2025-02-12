@@ -2,6 +2,11 @@
 
 baseURL: https://economie.rennes.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 24860056-a390-4c7b-88fb-3d6818b232a1
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
